@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle python-docstring",
+        "command": "python-docstring:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "python-docstring",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "python-docstring:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
