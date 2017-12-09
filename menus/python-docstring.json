@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle python-docstring",
-        "command": "python-docstring:toggle"
+        "label": "Add python-docstring",
+        "command": "python-docstring:add"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "python-docstring",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "python-docstring:toggle"
+              "label": "Add",
+              "command": "python-docstring:add"
             }
           ]
         }
