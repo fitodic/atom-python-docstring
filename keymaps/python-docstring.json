@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-o": "python-docstring:toggle"
+  "atom-text-editor": {
+    "ctrl-alt-d": "python-docstring:add"
   }
 }

@@ -1,14 +1,15 @@
 {
   "name": "python-docstring",
   "main": "./lib/python-docstring",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Add docstrings to your Python code.",
   "keywords": [
+      "Python", "docstring"
   ],
   "activationCommands": {
-    "atom-workspace": "python-docstring:toggle"
+    "atom-text-editor": "python-docstring:add"
   },
-  "repository": "https://github.com/atom/python-docstring",
+  "repository": "https://github.com/fitodic/atom-python-docstring",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
