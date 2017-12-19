@@ -1,7 +1,7 @@
 {
   "name": "python-docstring",
   "main": "./lib/python-docstring",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add docstrings to your Python code.",
   "keywords": [
       "Python", "docstring"
