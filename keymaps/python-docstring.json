@@ -1,5 +1,5 @@
 {
-  "atom-text-editor": {
+  "atom-text-editor[data-grammar='source python']": {
     "ctrl-alt-d": "python-docstring:add"
   }
 }
